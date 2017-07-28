@@ -1,1 +1,9 @@
 Je suis un lisez-moi . last update
+command list :
+Git add "something"
+git commit -m "something message"
+git push origin master
+
+configuration :
+git congig --global user.name "user_name"
+git congig --global user.email "email_adress"
